@@ -33,6 +33,11 @@ button{
     font-weight: bold;
 }
 
+button:active{
+    outline: red solid;
+}
+
+
 .equals-button{
     background-color:rgb(34, 241, 34);
     color: white;
